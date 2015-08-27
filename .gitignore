@@ -1,0 +1,5 @@
+#folder ignor
+ignor/
+
+#ignore only .txt files in folder docx 
+docx/*.txt
