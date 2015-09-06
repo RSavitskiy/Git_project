@@ -12,15 +12,15 @@ while (fp < 3 and sp < 3):
 
     if ((firstPlayer == "rock") and (secondPlayer == "rock")):
         games = games + 1
-        print("let play ")
+        print("let's play ")
 
     if ((firstPlayer == "paper") and (secondPlayer == "paper")):
         games = games + 1
-        print "let play"
+        print "let's play"
 
     if ((firstPlayer == "scissors") and (secondPlayer == "scissors")):
         games = games + 1
-        print "let play"
+        print "let's play"
 
     if ((firstPlayer == "paper") and (secondPlayer == "rock")):
         print "win first player"
