@@ -1,5 +1,7 @@
 #folder ignor
 ignor/
 
+/.idea
+
 #ignore only .txt files in folder docx 
 docx/*.txt
