@@ -1,0 +1,1 @@
+On diagram you see relationships between tables. Please write SQL query to retrieve aggregate table displayed below.

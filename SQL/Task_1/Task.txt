@@ -1,0 +1,29 @@
+1 Create tables
+
+1.1 
+table name: CountryInfo_user 
+values:
+city_id (PK, int)
+CountryName varchar(50);
+CityName varchar(50);
+Population int;
+isCapital (BIT)
+
+
+1.2
+table names: PeopleInfo_user
+values:
+id (PK, int)
+Name varchar(50);
+Surname varchar(50);
+city_id  int;
+isOccupied (BIT)
+
+2
+Fill in the data table (50 entries PeopleInfo_user, 20 entries CountryInfo_user)
+
+3
+Print the names of all the unemployed from the capitals of Great Britain and Spain
+
+4
+Calculate the number of employees in Poland and Ukraine, living in the cities of over one million and is the capital

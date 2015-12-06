@@ -1,0 +1,12 @@
+1)
+Create tables 
+Project, Assign, Empl
+
+2)
+On diagram you see relationships between tables. 
+
+3)
+Select projects without employees
+
+4)
+Select projects where average salary of all employees is less than 1000 
